@@ -4,9 +4,17 @@
  <a href="https://www.python.org" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;">
  </a>
- 
+  <a href="https://www.java.com/ko/" rel="nofollow">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="max-width:100%;">
+ </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;">
+ </a>
+  <a href="https://developer.mozilla.org/ko/docs/Web/HTML/HTML5" rel="nofollow">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width:100%;">
+ </a>
+   <a href="https://developer.mozilla.org/ko/docs/Archive/CSS3" rel="nofollow">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width:100%;">
  </a>
  <a href="https://vuejs.org/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width:100%;">
@@ -22,6 +30,10 @@
  </a>
  <a href="https://nodejs.org" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width:100%;">
+ </a>
+  </a>
+ <a href="https://kotlinlang.org/" rel="nofollow">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="40" style="max-width:100%;">
  </a>
  <a href="https://git-scm.com/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width:100%;">
