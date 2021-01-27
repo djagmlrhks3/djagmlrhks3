@@ -1,5 +1,62 @@
 ### Hi there 👋
 
+<p align="left">
+ <a href="https://www.cprogramming.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width:100%;">
+ </a>
+ <a href="https://www.w3schools.com/cpp/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width:100%;">
+ </a>
+ <a href="https://www.python.org" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;">
+ </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;">
+ </a>
+ <a href="https://www.typescriptlang.org/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;">
+ </a>
+ <a href="https://vuejs.org/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width:100%;">
+ </a>
+ <a href="https://reactjs.org/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width:100%;">
+ </a>
+ <a href="https://reactnative.dev/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/5c92eeb467fd5d2b1ef1c560e3c3c2f758a8d4e03a8136bda7b41a2d3d4a1b59/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width:100%;">
+ </a>
+ <a href="https://nextjs.org/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/300c2986a53648631c34798554da7cde3779de253b02a15da6bccc59ea9f0317/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d332e737667" alt="nextjs" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" style="max-width:100%;">
+ </a>
+ <a href="https://www.cypress.io" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" style="max-width:100%;">
+ </a>
+ <a href="https://www.djangoproject.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" style="max-width:100%;">
+ </a>
+ <a href="https://expressjs.com" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="max-width:100%;">
+ </a>
+ <a href="https://graphql.org" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/07c382b68200c1a86d52d1682346e73e038b2f160c9afbc0af773fb3646882c8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6772617068716c2f6772617068716c2d69636f6e2e737667" alt="graphql" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="max-width:100%;">
+ </a>
+ <a href="https://www.mysql.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;">
+ </a>
+ <a href="https://www.sqlite.org/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="sqlite" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="max-width:100%;">
+ </a>
+ <a href="https://nodejs.org" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width:100%;">
+ </a>
+ <a href="https://opencv.org/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="opencv" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="max-width:100%;">
+ </a>
+ <a href="https://git-scm.com/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width:100%;">
+ </a>
+</p>
+
 <!--
 **djagmlrhks3/djagmlrhks3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
