@@ -24,6 +24,9 @@
  <a href="https://www.djangoproject.com/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" style="max-width:100%;">
  </a>
+ <a href="https://www.oracle.com/" rel="nofollow">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="max-width:100%;">
+ </a>
  <a href="https://www.mysql.com/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;">
  </a>
